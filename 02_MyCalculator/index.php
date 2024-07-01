@@ -4,14 +4,11 @@
 ?>
 
 <?php // define global variables
-    $fNum = "";
-    $op = "";
-    $sNum = "";
+    $fNum = isset($_POST['firstNum']) ? $_POST['firstNum'] : "";
+    $op = isset($_POST['opVal']) ? $_POST['opVal'] : "";
+    $sNum = isset($_POST['secondNum']) ? $_POST['secondNum'] : "";
     $equation = "";
     $final = "";
-    $hiddenFNum = "";
-    $hiddenOp = "";
-    $hiddenSNum = "";
 ?>
 
 <?php // Get button values
@@ -19,18 +16,17 @@
     {
         if ($op != "")
         {
-            $sNum = $_POST['numButton'];
+            $sNum = $sNum . $_POST['numButton'];
         }
         else
         {
-            $fNum = $_POST['numButton'];
+            $fNum = $fNum . $_POST['numButton'];
         }
     }
     if (array_key_exists('opButton', $_POST)) // post is better because its more secure
     {
         $op = $_POST['opButton'];
     }
-
     if (array_key_exists('eqButton', $_POST))
     {
         if ($sNum != "")
@@ -38,16 +34,16 @@
             switch($op)
             {
                 case "+":
-                    $final = $fNum + $sNum;
+                    $final = intval($fNum) + intval($sNum);
                     break;
                 case "-":
-                    $final = $fNum - $sNum;
+                    $final = intval($fNum) - intval($sNum);
                     break;
                 case "*":
-                    $final = $fNum * $sNum;
+                    $final = intval($fNum) * intval($sNum);
                     break;
-                case "//":
-                    $final = $fNum / $sNum;
+                case "/":
+                    $final = intval($fNum) / intval($sNum);
                     break;
                 default:
                     $final = "Unknown Operator";
@@ -55,37 +51,51 @@
             }
         }
     }
-    if (array_key_exists("firstNum", $_POST)) {
-        $hiddenFNum = $POST['firstNum'];
+    if (array_key_exists('clear', $_POST)) 
+    {
+        $fNum = "";
+        $op = "";
+        $sNum = "";
+        $final = "";
     }
-    if (array_key_exists("opVal", $_POST)) {
-        $hiddenOp = $POST['opVal'];
-    }
-    if (array_key_exists("secondNum", $_POST)) {
-        $hiddenSNum = $POST['secondNum'];
-    }
-    $equation = $hiddenFNum . $hiddenOp . $hiddenSNum . "$nbsp" . "=" . $final;
 ?>
 <br />
-Page Body
+Calculator app
 <br />
-<?php 
-    echo $equation;
-?>
-<br />
+
 <form method="post">
     <input type="hidden" name="firstNum" value="<?php echo $fNum ?>" />
     <input type="hidden" name="opVal" value="<?php echo $op ?>" />
     <input type="hidden" name="secondNum" value="<?php echo $sNum ?>" />
+    <?php
+    $equation = $fNum . " " . $op . " " . $sNum . " " . "=" . " " . $final;
+    echo $equation;
+    ?>
+<br />
     <br/>
-    <?php WriteButton("numButton", "1", "1");?>
-    <?php WriteButton("numButton", "2", "2");?>
-    <?php WriteButton("numButton", "3", "3");?>
+    <table>
+        <tr>
+            <th><?php WriteButton("numButton", "1", "1"); ?></th>
+            <th><?php WriteButton("numButton", "2", "2"); ?></th>
+            <th><?php WriteButton("numButton", "3", "3"); ?></th>
+        </tr>
+        <tr>
+            <th><?php WriteButton("numButton", "4", "4"); ?></th>
+            <th><?php WriteButton("numButton", "5", "5"); ?></th>
+            <th><?php WriteButton("numButton", "6", "6"); ?></th>
+        </tr>
+        <tr>
+            <th><?php WriteButton("numButton", "7", "7"); ?></th>
+            <th><?php WriteButton("numButton", "8", "8"); ?></th>
+            <th><?php WriteButton("numButton", "9", "9"); ?></th>
+        </tr>
+    </table>
     <?php WriteButton("opButton", "+", "+");?>
     <?php WriteButton("opButton", "-", "-");?>
     <?php WriteButton("opButton", "*", "*");?>
-    <?php WriteButton("opButton", "//", "//");?>
+    <?php WriteButton("opButton", "/", "/");?>
     <?php WriteButton("eqButton", "=", "=");?>
+    <?php WriteButton("clear", "clear", "clear");?>
 </form>
 <br />
 
