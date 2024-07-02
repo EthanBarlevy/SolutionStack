@@ -14,20 +14,20 @@
 <?php // Get button values
     if(array_key_exists('numButton', $_POST)) // post is better because its more secure
     {
-        if ($op != "")
+        if ($op != "") // is the operator defined for ths equation
         {
             $sNum = $sNum . $_POST['numButton'];
         }
-        else
+        else // if it is not, then its the first number
         {
             $fNum = $fNum . $_POST['numButton'];
         }
     }
-    if (array_key_exists('opButton', $_POST)) // post is better because its more secure
+    if (array_key_exists('opButton', $_POST)) // set the operator (this way only allows for single operation equations)
     {
         $op = $_POST['opButton'];
     }
-    if (array_key_exists('eqButton', $_POST))
+    if (array_key_exists('eqButton', $_POST)) // do the math
     {
         if ($sNum != "")
         {
@@ -51,7 +51,7 @@
             }
         }
     }
-    if (array_key_exists('clear', $_POST)) 
+    if (array_key_exists('clear', $_POST)) // remove all of the numbers
     {
         $fNum = "";
         $op = "";
