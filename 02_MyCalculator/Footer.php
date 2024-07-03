@@ -1,6 +1,6 @@
 <br />
 <br />
 <br />
-Copyright Ethan 2024
+Copyright&#169; Ethan 2024
     </body>
 </html>

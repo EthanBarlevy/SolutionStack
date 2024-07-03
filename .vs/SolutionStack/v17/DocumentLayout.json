@@ -1,26 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ebarlevy\\source\\repos\\SolutionStack\\",
+  "WorkspaceRootPath": "C:\\Users\\ebarl\\source\\repos\\SolutionStack\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F77A92AD-074C-4409-91E3-DCBC68A7F108}|02_MyCalculator\\02_MyCalculator.phpproj|c:\\users\\ebarlevy\\source\\repos\\solutionstack\\02_mycalculator\\index.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
+      "AbsoluteMoniker": "D:0:0:{F77A92AD-074C-4409-91E3-DCBC68A7F108}|02_MyCalculator\\02_MyCalculator.phpproj|c:\\users\\ebarl\\source\\repos\\solutionstack\\02_mycalculator\\index.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
       "RelativeMoniker": "D:0:0:{F77A92AD-074C-4409-91E3-DCBC68A7F108}|02_MyCalculator\\02_MyCalculator.phpproj|solutionrelative:02_mycalculator\\index.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F77A92AD-074C-4409-91E3-DCBC68A7F108}|02_MyCalculator\\02_MyCalculator.phpproj|c:\\users\\ebarlevy\\source\\repos\\solutionstack\\02_mycalculator\\header.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
-      "RelativeMoniker": "D:0:0:{F77A92AD-074C-4409-91E3-DCBC68A7F108}|02_MyCalculator\\02_MyCalculator.phpproj|solutionrelative:02_mycalculator\\header.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F77A92AD-074C-4409-91E3-DCBC68A7F108}|02_MyCalculator\\02_MyCalculator.phpproj|c:\\users\\ebarlevy\\source\\repos\\solutionstack\\02_mycalculator\\utils.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
+      "AbsoluteMoniker": "D:0:0:{F77A92AD-074C-4409-91E3-DCBC68A7F108}|02_MyCalculator\\02_MyCalculator.phpproj|c:\\users\\ebarl\\source\\repos\\solutionstack\\02_mycalculator\\utils.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
       "RelativeMoniker": "D:0:0:{F77A92AD-074C-4409-91E3-DCBC68A7F108}|02_MyCalculator\\02_MyCalculator.phpproj|solutionrelative:02_mycalculator\\utils.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5CC7D727-68AC-4319-ABFE-2F960C81A0A5}|01_MyProfile\\01_MyProfile.phpproj|c:\\users\\ebarlevy\\source\\repos\\solutionstack\\01_myprofile\\index.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
-      "RelativeMoniker": "D:0:0:{5CC7D727-68AC-4319-ABFE-2F960C81A0A5}|01_MyProfile\\01_MyProfile.phpproj|solutionrelative:01_myprofile\\index.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+      "AbsoluteMoniker": "D:0:0:{F77A92AD-074C-4409-91E3-DCBC68A7F108}|02_MyCalculator\\02_MyCalculator.phpproj|c:\\users\\ebarl\\source\\repos\\solutionstack\\02_mycalculator\\footer.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
+      "RelativeMoniker": "D:0:0:{F77A92AD-074C-4409-91E3-DCBC68A7F108}|02_MyCalculator\\02_MyCalculator.phpproj|solutionrelative:02_mycalculator\\footer.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F77A92AD-074C-4409-91E3-DCBC68A7F108}|02_MyCalculator\\02_MyCalculator.phpproj|c:\\users\\ebarlevy\\source\\repos\\solutionstack\\02_mycalculator\\footer.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
-      "RelativeMoniker": "D:0:0:{F77A92AD-074C-4409-91E3-DCBC68A7F108}|02_MyCalculator\\02_MyCalculator.phpproj|solutionrelative:02_mycalculator\\footer.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+      "AbsoluteMoniker": "D:0:0:{F77A92AD-074C-4409-91E3-DCBC68A7F108}|02_MyCalculator\\02_MyCalculator.phpproj|c:\\users\\ebarl\\source\\repos\\solutionstack\\02_mycalculator\\header.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
+      "RelativeMoniker": "D:0:0:{F77A92AD-074C-4409-91E3-DCBC68A7F108}|02_MyCalculator\\02_MyCalculator.phpproj|solutionrelative:02_mycalculator\\header.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,11 +38,11 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             },
             {
               "$type": "Bookmark",
@@ -54,39 +50,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Utils.php",
-              "DocumentMoniker": "C:\\Users\\ebarlevy\\source\\repos\\SolutionStack\\02_MyCalculator\\Utils.php",
+              "DocumentMoniker": "C:\\Users\\ebarl\\source\\repos\\SolutionStack\\02_MyCalculator\\Utils.php",
               "RelativeDocumentMoniker": "02_MyCalculator\\Utils.php",
-              "ToolTip": "C:\\Users\\ebarlevy\\source\\repos\\SolutionStack\\02_MyCalculator\\Utils.php",
+              "ToolTip": "C:\\Users\\ebarl\\source\\repos\\SolutionStack\\02_MyCalculator\\Utils.php",
               "RelativeToolTip": "02_MyCalculator\\Utils.php",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAABCAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAABhAAAA",
               "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
               "WhenOpened": "2024-06-26T15:00:39.103Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Footer.php",
-              "DocumentMoniker": "C:\\Users\\ebarlevy\\source\\repos\\SolutionStack\\02_MyCalculator\\Footer.php",
+              "DocumentMoniker": "C:\\Users\\ebarl\\source\\repos\\SolutionStack\\02_MyCalculator\\Footer.php",
               "RelativeDocumentMoniker": "02_MyCalculator\\Footer.php",
-              "ToolTip": "C:\\Users\\ebarlevy\\source\\repos\\SolutionStack\\02_MyCalculator\\Footer.php",
+              "ToolTip": "C:\\Users\\ebarl\\source\\repos\\SolutionStack\\02_MyCalculator\\Footer.php",
               "RelativeToolTip": "02_MyCalculator\\Footer.php",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAHAAAA",
               "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
               "WhenOpened": "2024-06-26T14:44:40.677Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Header.php",
-              "DocumentMoniker": "C:\\Users\\ebarlevy\\source\\repos\\SolutionStack\\02_MyCalculator\\Header.php",
+              "DocumentMoniker": "C:\\Users\\ebarl\\source\\repos\\SolutionStack\\02_MyCalculator\\Header.php",
               "RelativeDocumentMoniker": "02_MyCalculator\\Header.php",
-              "ToolTip": "C:\\Users\\ebarlevy\\source\\repos\\SolutionStack\\02_MyCalculator\\Header.php",
+              "ToolTip": "C:\\Users\\ebarl\\source\\repos\\SolutionStack\\02_MyCalculator\\Header.php",
               "RelativeToolTip": "02_MyCalculator\\Header.php",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABJAAAA",
               "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
               "WhenOpened": "2024-06-26T14:42:27.821Z",
               "EditorCaption": ""
@@ -95,26 +91,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "index.php",
-              "DocumentMoniker": "C:\\Users\\ebarlevy\\source\\repos\\SolutionStack\\02_MyCalculator\\index.php",
+              "DocumentMoniker": "C:\\Users\\ebarl\\source\\repos\\SolutionStack\\02_MyCalculator\\index.php",
               "RelativeDocumentMoniker": "02_MyCalculator\\index.php",
-              "ToolTip": "C:\\Users\\ebarlevy\\source\\repos\\SolutionStack\\02_MyCalculator\\index.php",
+              "ToolTip": "C:\\Users\\ebarl\\source\\repos\\SolutionStack\\02_MyCalculator\\index.php",
               "RelativeToolTip": "02_MyCalculator\\index.php",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEIAAABHAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAYwBgAAAAFAAAA",
               "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
               "WhenOpened": "2024-06-26T14:40:44.015Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "index.php",
-              "DocumentMoniker": "C:\\Users\\ebarlevy\\source\\repos\\SolutionStack\\01_MyProfile\\index.php",
-              "RelativeDocumentMoniker": "01_MyProfile\\index.php",
-              "ToolTip": "C:\\Users\\ebarlevy\\source\\repos\\SolutionStack\\01_MyProfile\\index.php",
-              "RelativeToolTip": "01_MyProfile\\index.php",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAZAAAA",
-              "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
-              "WhenOpened": "2024-06-26T14:27:06.936Z",
               "EditorCaption": ""
             }
           ]

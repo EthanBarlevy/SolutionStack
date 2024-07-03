@@ -1,6 +1,6 @@
 <html>
     <body>
-        This is my header
+        Calculator app
         <br />
-        (put menu here)
+        this is a really well made calculator that can do all of the math
         <hr />
