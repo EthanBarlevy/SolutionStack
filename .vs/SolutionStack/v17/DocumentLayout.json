@@ -3,40 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\ebarl\\source\\repos\\SolutionStack\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6E824A0E-3BE3-47FC-86A9-4E99290A15B5}|03_Class_Menu\\03_Class_Menu.phpproj|c:\\users\\ebarl\\source\\repos\\solutionstack\\03_class_menu\\studentclass.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
-      "RelativeMoniker": "D:0:0:{6E824A0E-3BE3-47FC-86A9-4E99290A15B5}|03_Class_Menu\\03_Class_Menu.phpproj|solutionrelative:03_class_menu\\studentclass.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+      "AbsoluteMoniker": "D:0:0:{C31AC1FA-3BF0-41AF-A5E2-201446A57413}|05_0_Session_Cookie\\05_0_Session_Cookie.phpproj|c:\\users\\ebarl\\source\\repos\\solutionstack\\05_0_session_cookie\\index.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
+      "RelativeMoniker": "D:0:0:{C31AC1FA-3BF0-41AF-A5E2-201446A57413}|05_0_Session_Cookie\\05_0_Session_Cookie.phpproj|solutionrelative:05_0_session_cookie\\index.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6E824A0E-3BE3-47FC-86A9-4E99290A15B5}|03_Class_Menu\\03_Class_Menu.phpproj|c:\\users\\ebarl\\source\\repos\\solutionstack\\03_class_menu\\personclass.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
-      "RelativeMoniker": "D:0:0:{6E824A0E-3BE3-47FC-86A9-4E99290A15B5}|03_Class_Menu\\03_Class_Menu.phpproj|solutionrelative:03_class_menu\\personclass.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+      "AbsoluteMoniker": "D:0:0:{C31AC1FA-3BF0-41AF-A5E2-201446A57413}|05_0_Session_Cookie\\05_0_Session_Cookie.phpproj|c:\\users\\ebarl\\source\\repos\\solutionstack\\05_0_session_cookie\\utils.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
+      "RelativeMoniker": "D:0:0:{C31AC1FA-3BF0-41AF-A5E2-201446A57413}|05_0_Session_Cookie\\05_0_Session_Cookie.phpproj|solutionrelative:05_0_session_cookie\\utils.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6E824A0E-3BE3-47FC-86A9-4E99290A15B5}|03_Class_Menu\\03_Class_Menu.phpproj|c:\\users\\ebarl\\source\\repos\\solutionstack\\03_class_menu\\mycss.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
-      "RelativeMoniker": "D:0:0:{6E824A0E-3BE3-47FC-86A9-4E99290A15B5}|03_Class_Menu\\03_Class_Menu.phpproj|solutionrelative:03_class_menu\\mycss.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6E824A0E-3BE3-47FC-86A9-4E99290A15B5}|03_Class_Menu\\03_Class_Menu.phpproj|c:\\users\\ebarl\\source\\repos\\solutionstack\\03_class_menu\\index.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
-      "RelativeMoniker": "D:0:0:{6E824A0E-3BE3-47FC-86A9-4E99290A15B5}|03_Class_Menu\\03_Class_Menu.phpproj|solutionrelative:03_class_menu\\index.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6E824A0E-3BE3-47FC-86A9-4E99290A15B5}|03_Class_Menu\\03_Class_Menu.phpproj|c:\\users\\ebarl\\source\\repos\\solutionstack\\03_class_menu\\header.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
-      "RelativeMoniker": "D:0:0:{6E824A0E-3BE3-47FC-86A9-4E99290A15B5}|03_Class_Menu\\03_Class_Menu.phpproj|solutionrelative:03_class_menu\\header.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6E824A0E-3BE3-47FC-86A9-4E99290A15B5}|03_Class_Menu\\03_Class_Menu.phpproj|c:\\users\\ebarl\\source\\repos\\solutionstack\\03_class_menu\\menu.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
-      "RelativeMoniker": "D:0:0:{6E824A0E-3BE3-47FC-86A9-4E99290A15B5}|03_Class_Menu\\03_Class_Menu.phpproj|solutionrelative:03_class_menu\\menu.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6E824A0E-3BE3-47FC-86A9-4E99290A15B5}|03_Class_Menu\\03_Class_Menu.phpproj|c:\\users\\ebarl\\source\\repos\\solutionstack\\03_class_menu\\footer.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
-      "RelativeMoniker": "D:0:0:{6E824A0E-3BE3-47FC-86A9-4E99290A15B5}|03_Class_Menu\\03_Class_Menu.phpproj|solutionrelative:03_class_menu\\footer.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6E824A0E-3BE3-47FC-86A9-4E99290A15B5}|03_Class_Menu\\03_Class_Menu.phpproj|c:\\users\\ebarl\\source\\repos\\solutionstack\\03_class_menu\\page2.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
-      "RelativeMoniker": "D:0:0:{6E824A0E-3BE3-47FC-86A9-4E99290A15B5}|03_Class_Menu\\03_Class_Menu.phpproj|solutionrelative:03_class_menu\\page2.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6E824A0E-3BE3-47FC-86A9-4E99290A15B5}|03_Class_Menu\\03_Class_Menu.phpproj|c:\\users\\ebarl\\source\\repos\\solutionstack\\03_class_menu\\page3.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
-      "RelativeMoniker": "D:0:0:{6E824A0E-3BE3-47FC-86A9-4E99290A15B5}|03_Class_Menu\\03_Class_Menu.phpproj|solutionrelative:03_class_menu\\page3.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+      "AbsoluteMoniker": "D:0:0:{C31AC1FA-3BF0-41AF-A5E2-201446A57413}|05_0_Session_Cookie\\05_0_Session_Cookie.phpproj|c:\\users\\ebarl\\source\\repos\\solutionstack\\05_0_session_cookie\\header.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
+      "RelativeMoniker": "D:0:0:{C31AC1FA-3BF0-41AF-A5E2-201446A57413}|05_0_Session_Cookie\\05_0_Session_Cookie.phpproj|solutionrelative:05_0_session_cookie\\header.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 198,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,119 +46,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "studentClass.php",
-              "DocumentMoniker": "C:\\Users\\ebarl\\source\\repos\\SolutionStack\\03_Class_Menu\\studentClass.php",
-              "RelativeDocumentMoniker": "03_Class_Menu\\studentClass.php",
-              "ToolTip": "C:\\Users\\ebarl\\source\\repos\\SolutionStack\\03_Class_Menu\\studentClass.php",
-              "RelativeToolTip": "03_Class_Menu\\studentClass.php",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
-              "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
-              "WhenOpened": "2024-07-03T15:20:23.045Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "personClass.php",
-              "DocumentMoniker": "C:\\Users\\ebarl\\source\\repos\\SolutionStack\\03_Class_Menu\\personClass.php",
-              "RelativeDocumentMoniker": "03_Class_Menu\\personClass.php",
-              "ToolTip": "C:\\Users\\ebarl\\source\\repos\\SolutionStack\\03_Class_Menu\\personClass.php",
-              "RelativeToolTip": "03_Class_Menu\\personClass.php",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAkAAAA",
+              "Title": "utils.php",
+              "DocumentMoniker": "C:\\Users\\ebarl\\source\\repos\\SolutionStack\\05_0_Session_Cookie\\utils.php",
+              "RelativeDocumentMoniker": "05_0_Session_Cookie\\utils.php",
+              "ToolTip": "C:\\Users\\ebarl\\source\\repos\\SolutionStack\\05_0_Session_Cookie\\utils.php",
+              "RelativeToolTip": "05_0_Session_Cookie\\utils.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAlAAAA",
               "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
-              "WhenOpened": "2024-07-03T15:09:19.424Z",
+              "WhenOpened": "2024-07-08T15:06:03.078Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "myCSS.php",
-              "DocumentMoniker": "C:\\Users\\ebarl\\source\\repos\\SolutionStack\\03_Class_Menu\\myCSS.php",
-              "RelativeDocumentMoniker": "03_Class_Menu\\myCSS.php",
-              "ToolTip": "C:\\Users\\ebarl\\source\\repos\\SolutionStack\\03_Class_Menu\\myCSS.php",
-              "RelativeToolTip": "03_Class_Menu\\myCSS.php",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAASAAAA",
-              "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
-              "WhenOpened": "2024-07-03T14:58:53.396Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "page3.php",
-              "DocumentMoniker": "C:\\Users\\ebarl\\source\\repos\\SolutionStack\\03_Class_Menu\\page3.php",
-              "RelativeDocumentMoniker": "03_Class_Menu\\page3.php",
-              "ToolTip": "C:\\Users\\ebarl\\source\\repos\\SolutionStack\\03_Class_Menu\\page3.php",
-              "RelativeToolTip": "03_Class_Menu\\page3.php",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAACAAAA",
-              "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
-              "WhenOpened": "2024-07-03T14:48:01.852Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "page2.php",
-              "DocumentMoniker": "C:\\Users\\ebarl\\source\\repos\\SolutionStack\\03_Class_Menu\\page2.php",
-              "RelativeDocumentMoniker": "03_Class_Menu\\page2.php",
-              "ToolTip": "C:\\Users\\ebarl\\source\\repos\\SolutionStack\\03_Class_Menu\\page2.php",
-              "RelativeToolTip": "03_Class_Menu\\page2.php",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAFAAAA",
-              "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
-              "WhenOpened": "2024-07-03T14:47:41.841Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "menu.php",
-              "DocumentMoniker": "C:\\Users\\ebarl\\source\\repos\\SolutionStack\\03_Class_Menu\\menu.php",
-              "RelativeDocumentMoniker": "03_Class_Menu\\menu.php",
-              "ToolTip": "C:\\Users\\ebarl\\source\\repos\\SolutionStack\\03_Class_Menu\\menu.php",
-              "RelativeToolTip": "03_Class_Menu\\menu.php",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAGAAAA",
-              "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
-              "WhenOpened": "2024-07-03T14:43:48.226Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "footer.php",
-              "DocumentMoniker": "C:\\Users\\ebarl\\source\\repos\\SolutionStack\\03_Class_Menu\\footer.php",
-              "RelativeDocumentMoniker": "03_Class_Menu\\footer.php",
-              "ToolTip": "C:\\Users\\ebarl\\source\\repos\\SolutionStack\\03_Class_Menu\\footer.php",
-              "RelativeToolTip": "03_Class_Menu\\footer.php",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAHAAAA",
-              "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
-              "WhenOpened": "2024-07-03T14:43:29.243Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "header.php",
-              "DocumentMoniker": "C:\\Users\\ebarl\\source\\repos\\SolutionStack\\03_Class_Menu\\header.php",
-              "RelativeDocumentMoniker": "03_Class_Menu\\header.php",
-              "ToolTip": "C:\\Users\\ebarl\\source\\repos\\SolutionStack\\03_Class_Menu\\header.php",
-              "RelativeToolTip": "03_Class_Menu\\header.php",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAACAAAA",
+              "DocumentMoniker": "C:\\Users\\ebarl\\source\\repos\\SolutionStack\\05_0_Session_Cookie\\header.php",
+              "RelativeDocumentMoniker": "05_0_Session_Cookie\\header.php",
+              "ToolTip": "C:\\Users\\ebarl\\source\\repos\\SolutionStack\\05_0_Session_Cookie\\header.php",
+              "RelativeToolTip": "05_0_Session_Cookie\\header.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAABLAAAA",
               "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
-              "WhenOpened": "2024-07-03T14:42:55.509Z",
+              "WhenOpened": "2024-07-08T15:04:46.599Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "index.php",
-              "DocumentMoniker": "C:\\Users\\ebarl\\source\\repos\\SolutionStack\\03_Class_Menu\\index.php",
-              "RelativeDocumentMoniker": "03_Class_Menu\\index.php",
-              "ToolTip": "C:\\Users\\ebarl\\source\\repos\\SolutionStack\\03_Class_Menu\\index.php",
-              "RelativeToolTip": "03_Class_Menu\\index.php",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "DocumentMoniker": "C:\\Users\\ebarl\\source\\repos\\SolutionStack\\05_0_Session_Cookie\\index.php",
+              "RelativeDocumentMoniker": "05_0_Session_Cookie\\index.php",
+              "ToolTip": "C:\\Users\\ebarl\\source\\repos\\SolutionStack\\05_0_Session_Cookie\\index.php",
+              "RelativeToolTip": "05_0_Session_Cookie\\index.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
-              "WhenOpened": "2024-07-03T14:42:25.55Z",
+              "WhenOpened": "2024-07-08T14:59:18.778Z",
               "EditorCaption": ""
             }
           ]

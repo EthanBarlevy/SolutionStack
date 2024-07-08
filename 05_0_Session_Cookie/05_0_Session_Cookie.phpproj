@@ -1,11 +1,9 @@
 <Project Sdk="Devsense.Php.Sdk">
   <PropertyGroup Label="Globals">
-    <ProjectGuid>6e824a0e-3be3-47fc-86a9-4e99290a15b5</ProjectGuid>
+    <ProjectGuid>c31ac1fa-3bf0-41af-a5e2-201446a57413</ProjectGuid>
   </PropertyGroup>
   <PropertyGroup>
     <EnvName>PHPDev</EnvName>
     <RuntimeVersion>8.3</RuntimeVersion>
-    <SpecificPageValue>classSample.php</SpecificPageValue>
-    <StartAction>SpecificPage</StartAction>
   </PropertyGroup>
 </Project>

@@ -1,5 +1,5 @@
 <?php
-    /* --------------------------------------------
+    /** -------------------------------------------
      * sample person class 
      * 
      * descrpition:
@@ -14,8 +14,8 @@ class PersonClass
 {
     public $FirstName;
     public $LastName;
-    private $Age;
-    public $myInt;
+    private $Age = 0;
+    public $myInt = 0;
 
     public function HaveBirthday(){
         $this->Age = $this->Age + 1;
