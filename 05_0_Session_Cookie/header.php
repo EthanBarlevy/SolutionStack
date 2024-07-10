@@ -11,6 +11,16 @@ session_start();
     <!--this is just html lol-->
 </head>
 <body>
+    <a href="index.php">Home</a>
+    &nbsp;
+    &nbsp;
+    <a href="sampleKillSession.php">Kill Session</a>
+    &nbsp;
+    &nbsp;
+    <a href="cookies.php">Cookies</a>
+    &nbsp;
+    &nbsp;
+    <a href="sampleKillCookie.php">Kill Cookie</a>
     This is a header uwu
     <br />
     <br />

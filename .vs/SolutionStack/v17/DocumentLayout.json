@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\ebarl\\source\\repos\\SolutionStack\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C31AC1FA-3BF0-41AF-A5E2-201446A57413}|05_0_Session_Cookie\\05_0_Session_Cookie.phpproj|c:\\users\\ebarl\\source\\repos\\solutionstack\\05_0_session_cookie\\index.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
-      "RelativeMoniker": "D:0:0:{C31AC1FA-3BF0-41AF-A5E2-201446A57413}|05_0_Session_Cookie\\05_0_Session_Cookie.phpproj|solutionrelative:05_0_session_cookie\\index.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+      "AbsoluteMoniker": "D:0:0:{82D7F813-7F30-4C1E-AC70-94A955F36CD2}|06_JSON_Sample\\06_JSON_Sample.phpproj|c:\\users\\ebarl\\source\\repos\\solutionstack\\06_json_sample\\index.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
+      "RelativeMoniker": "D:0:0:{82D7F813-7F30-4C1E-AC70-94A955F36CD2}|06_JSON_Sample\\06_JSON_Sample.phpproj|solutionrelative:06_json_sample\\index.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C31AC1FA-3BF0-41AF-A5E2-201446A57413}|05_0_Session_Cookie\\05_0_Session_Cookie.phpproj|c:\\users\\ebarl\\source\\repos\\solutionstack\\05_0_session_cookie\\utils.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
-      "RelativeMoniker": "D:0:0:{C31AC1FA-3BF0-41AF-A5E2-201446A57413}|05_0_Session_Cookie\\05_0_Session_Cookie.phpproj|solutionrelative:05_0_session_cookie\\utils.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+      "AbsoluteMoniker": "D:0:0:{82D7F813-7F30-4C1E-AC70-94A955F36CD2}|06_JSON_Sample\\06_JSON_Sample.phpproj|c:\\users\\ebarl\\source\\repos\\solutionstack\\06_json_sample\\footer.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
+      "RelativeMoniker": "D:0:0:{82D7F813-7F30-4C1E-AC70-94A955F36CD2}|06_JSON_Sample\\06_JSON_Sample.phpproj|solutionrelative:06_json_sample\\footer.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C31AC1FA-3BF0-41AF-A5E2-201446A57413}|05_0_Session_Cookie\\05_0_Session_Cookie.phpproj|c:\\users\\ebarl\\source\\repos\\solutionstack\\05_0_session_cookie\\header.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
-      "RelativeMoniker": "D:0:0:{C31AC1FA-3BF0-41AF-A5E2-201446A57413}|05_0_Session_Cookie\\05_0_Session_Cookie.phpproj|solutionrelative:05_0_session_cookie\\header.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+      "AbsoluteMoniker": "D:0:0:{82D7F813-7F30-4C1E-AC70-94A955F36CD2}|06_JSON_Sample\\06_JSON_Sample.phpproj|c:\\users\\ebarl\\source\\repos\\solutionstack\\06_json_sample\\header.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
+      "RelativeMoniker": "D:0:0:{82D7F813-7F30-4C1E-AC70-94A955F36CD2}|06_JSON_Sample\\06_JSON_Sample.phpproj|solutionrelative:06_json_sample\\header.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
     }
   ],
   "DocumentGroupContainers": [
@@ -47,40 +47,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "utils.php",
-              "DocumentMoniker": "C:\\Users\\ebarl\\source\\repos\\SolutionStack\\05_0_Session_Cookie\\utils.php",
-              "RelativeDocumentMoniker": "05_0_Session_Cookie\\utils.php",
-              "ToolTip": "C:\\Users\\ebarl\\source\\repos\\SolutionStack\\05_0_Session_Cookie\\utils.php",
-              "RelativeToolTip": "05_0_Session_Cookie\\utils.php",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAlAAAA",
+              "Title": "footer.php",
+              "DocumentMoniker": "C:\\Users\\ebarl\\source\\repos\\SolutionStack\\06_JSON_Sample\\footer.php",
+              "RelativeDocumentMoniker": "06_JSON_Sample\\footer.php",
+              "ToolTip": "C:\\Users\\ebarl\\source\\repos\\SolutionStack\\06_JSON_Sample\\footer.php",
+              "RelativeToolTip": "06_JSON_Sample\\footer.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAGAAAA",
               "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
-              "WhenOpened": "2024-07-08T15:06:03.078Z",
+              "WhenOpened": "2024-07-10T15:03:07.028Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "header.php",
-              "DocumentMoniker": "C:\\Users\\ebarl\\source\\repos\\SolutionStack\\05_0_Session_Cookie\\header.php",
-              "RelativeDocumentMoniker": "05_0_Session_Cookie\\header.php",
-              "ToolTip": "C:\\Users\\ebarl\\source\\repos\\SolutionStack\\05_0_Session_Cookie\\header.php",
-              "RelativeToolTip": "05_0_Session_Cookie\\header.php",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAABLAAAA",
+              "DocumentMoniker": "C:\\Users\\ebarl\\source\\repos\\SolutionStack\\06_JSON_Sample\\header.php",
+              "RelativeDocumentMoniker": "06_JSON_Sample\\header.php",
+              "ToolTip": "C:\\Users\\ebarl\\source\\repos\\SolutionStack\\06_JSON_Sample\\header.php",
+              "RelativeToolTip": "06_JSON_Sample\\header.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAGAAAA",
               "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
-              "WhenOpened": "2024-07-08T15:04:46.599Z",
+              "WhenOpened": "2024-07-10T15:02:41.606Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "index.php",
-              "DocumentMoniker": "C:\\Users\\ebarl\\source\\repos\\SolutionStack\\05_0_Session_Cookie\\index.php",
-              "RelativeDocumentMoniker": "05_0_Session_Cookie\\index.php",
-              "ToolTip": "C:\\Users\\ebarl\\source\\repos\\SolutionStack\\05_0_Session_Cookie\\index.php",
-              "RelativeToolTip": "05_0_Session_Cookie\\index.php",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\ebarl\\source\\repos\\SolutionStack\\06_JSON_Sample\\index.php",
+              "RelativeDocumentMoniker": "06_JSON_Sample\\index.php",
+              "ToolTip": "C:\\Users\\ebarl\\source\\repos\\SolutionStack\\06_JSON_Sample\\index.php",
+              "RelativeToolTip": "06_JSON_Sample\\index.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAUAAAA",
               "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
-              "WhenOpened": "2024-07-08T14:59:18.778Z",
+              "WhenOpened": "2024-07-10T15:02:23.153Z",
               "EditorCaption": ""
             }
           ]

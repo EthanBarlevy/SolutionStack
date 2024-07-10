@@ -1,3 +1,7 @@
-﻿<?php
+<?php
 
-echo 'Hello World!';
+?>
+
+<?php
+$_SESSION['Page'] = 'Home';
+?>
