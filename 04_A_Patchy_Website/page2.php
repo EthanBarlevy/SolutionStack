@@ -1,6 +1,6 @@
 <?php
 include_once "prehead.php";
-$_SESSION['Page'] = 'Home';
+$_SESSION['Page'] = 'Locations';
 include_once "header.php";
 ?>
 
