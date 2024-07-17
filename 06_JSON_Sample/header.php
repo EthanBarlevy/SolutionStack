@@ -4,6 +4,7 @@
 &nbsp;
 &nbsp;
 <a href="jsonMulti.php">multi</a>
+<a href="jsonSingle.php">single</a>
 <br />
 <br />
 Head
